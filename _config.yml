@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://zeroorder.github.io
+url: https://zeroorder.github
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -39,10 +39,10 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: in/mehdirahman88
 # youtube: myyoutube
 # spotify: myspotify
-github: zeroorder
+
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -51,6 +51,7 @@ github: zeroorder
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: mehdi.rahman88@gmail.com
+github: zeroorder
 
 authors:
     johndoe:
@@ -81,6 +82,7 @@ projects: true
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
+works: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
