@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://zeroorder.github
+url: https://zeroorder.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -39,7 +39,7 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: in/mehdirahman88
+linkedin: mehdirahman88
 # youtube: myyoutube
 # spotify: myspotify
 
